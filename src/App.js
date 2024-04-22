@@ -1,7 +1,9 @@
+import Body from "./components/Body";
+
 function App() {
   return (
     <div className="font-bold">
-      <h1>pawan</h1>
+      <Body />
     </div>
   );
 }
